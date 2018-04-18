@@ -1,0 +1,14 @@
+{
+  "name": "parcel-plugin-svelte-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --no-cache"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.7.1",
+    "parcel-plugin-svelte": "^1.0.0",
+    "svelte": "^1.64.0"
+  }
+}
